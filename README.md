@@ -27,7 +27,7 @@
 - Open the command terminal window
 - Navigate to the folder/directory where you have stored/cloned this repository
 - Open the world folder
-- Execute `gazebo map1`
+- Execute `gazebo World_Warehouse_2.0`
 
 ### License
 
